@@ -1,6 +1,6 @@
 # Godot_Study_2023
  군 복무 내 게임 출시를 목표로 사지방에서 하는 고도엔진 공부   
- 학습 자료:http://naver.me/5i0wEwrt
+ 학습 자료: http://naver.me/F2itkiU7
  
 고도 기초 강의(한글 영상)   
 https://youtu.be/UGtNc4Eb4ts?si=z2nTV6Bk2uBuWpcY
